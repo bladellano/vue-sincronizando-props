@@ -1,5 +1,8 @@
 # sincronizando-props
 
+### Observação: 
+Foi instalado o Bootstrap-vue
+
 ## Project setup
 ```
 yarn install
